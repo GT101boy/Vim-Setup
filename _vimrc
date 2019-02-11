@@ -78,7 +78,7 @@ set noswapfile
 set conceallevel=0
 "Create Lines outside edit mode
 
-let mapleader=" "
+map <Space> <Leader>
 map <leader>md :InstantMarkdownPreview<CR>
 map <leader>o o<esc>
 map <leader>O O<esc>
